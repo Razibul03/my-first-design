@@ -20,3 +20,9 @@ p{
 
 
 }
+#second{
+    background-color: gainsboro;
+    border: 10ps solid tomato;
+    text-align: center;
+    
+}
