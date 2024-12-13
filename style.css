@@ -7,22 +7,32 @@ h3{
 
 }
 p{
+    
     display: inline-block;
-    width: 300px;
-    height: 400px;
+    color: aliceblue;
+    width: 200px;
+    height: 200px;
+    text-shadow: red saddlebrown;
+    background-image: url('Bird_fly.jpg');
     font-style: italic;
     text-decoration: underline;
     text-align: justify;
     margin: 10px;
     padding: 5px;
     border: 5px red solid;
-    background-color: cornsilk;
+   background-repeat:initial;
 
 
 }
 #second{
-    background-color: gainsboro;
+    
+    background-image: url('../my-first-design/image/nature.jpg');
     border: 10ps solid tomato;
     text-align: center;
     
+}
+div{
+    
+    
+    margin: 5px;
 }
